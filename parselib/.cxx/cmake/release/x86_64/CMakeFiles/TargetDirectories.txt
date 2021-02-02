@@ -1,0 +1,3 @@
+/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/release/x86_64/CMakeFiles/parselib.dir

@@ -1,0 +1,44 @@
+{
+  "buildFiles": [
+    "/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/android/OT/oboe/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja  -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "nativeaudio-Release-x86": {
+      "artifactName": "nativeaudio",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86\" nativeaudio",
+      "abi": "x86",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/build/intermediates/cmake/release/obj/x86/libnativeaudio.so",
+      "runtimeFiles": []
+    },
+    "iolib-Release-x86": {
+      "artifactName": "iolib",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86\" iolib",
+      "abi": "x86",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86/libiolib.a",
+      "runtimeFiles": []
+    },
+    "parselib-Release-x86": {
+      "artifactName": "parselib",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86\" parselib",
+      "abi": "x86",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86/libparselib.a",
+      "runtimeFiles": []
+    },
+    "oboe-Release-x86": {
+      "artifactName": "oboe",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86\" oboe",
+      "abi": "x86",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86/oboe/liboboe.a",
+      "runtimeFiles": []
+    }
+  }
+}

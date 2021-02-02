@@ -1,0 +1,3 @@
+/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/release/arm64-v8a/CMakeFiles/iolib.dir

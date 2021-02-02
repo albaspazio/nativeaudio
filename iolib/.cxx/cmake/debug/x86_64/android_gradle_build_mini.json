@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja  -C \"/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "iolib-Debug-x86_64": {
+      "artifactName": "iolib",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/debug/x86_64\" iolib",
+      "abi": "x86_64",
+      "output": "/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/debug/x86_64/libiolib.a",
+      "runtimeFiles": []
+    }
+  }
+}

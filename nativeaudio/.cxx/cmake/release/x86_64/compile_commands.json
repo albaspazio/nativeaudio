@@ -1,0 +1,391 @@
+[
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/iolib.dir/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SampleSource.cpp.o -c /data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SampleSource.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SampleSource.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/iolib.dir/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SampleBuffer.cpp.o -c /data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SampleBuffer.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SampleBuffer.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/iolib.dir/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/OneShotSampleSource.cpp.o -c /data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/OneShotSampleSource.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/OneShotSampleSource.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/iolib.dir/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SimpleMultiPlayer.cpp.o -c /data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SimpleMultiPlayer.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/player/SimpleMultiPlayer.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativeaudio_EXPORTS -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/nativeaudio.dir/jni_bridge.cpp.o -c /data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/jni_bridge.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/jni_bridge.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativeaudio_EXPORTS -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/nativeaudio.dir/PlaybackEngine.cpp.o -c /data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/PlaybackEngine.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/PlaybackEngine.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/FileInputStream.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/FileInputStream.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/FileInputStream.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/InputStream.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/InputStream.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/InputStream.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/MemInputStream.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/MemInputStream.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/stream/MemInputStream.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/AudioEncoding.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/AudioEncoding.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/AudioEncoding.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavChunkHeader.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavChunkHeader.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavChunkHeader.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavFmtChunkHeader.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavFmtChunkHeader.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavFmtChunkHeader.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavRIFFChunkHeader.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavRIFFChunkHeader.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavRIFFChunkHeader.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp -I/data/CODE/android/OT/oboe/include -I/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../shared -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../parselib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp -I/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/../../../../iolib/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/parselib.dir/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavStreamReader.cpp.o -c /data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavStreamReader.cpp",
+  "file": "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/wav/WavStreamReader.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/aaudio/AAudioLoader.cpp.o -c /data/CODE/android/OT/oboe/src/aaudio/AAudioLoader.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/aaudio/AAudioLoader.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/aaudio/AudioStreamAAudio.cpp.o -c /data/CODE/android/OT/oboe/src/aaudio/AudioStreamAAudio.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/aaudio/AudioStreamAAudio.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/AudioSourceCaller.cpp.o -c /data/CODE/android/OT/oboe/src/common/AudioSourceCaller.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/AudioSourceCaller.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/AudioStream.cpp.o -c /data/CODE/android/OT/oboe/src/common/AudioStream.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/AudioStream.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/AudioStreamBuilder.cpp.o -c /data/CODE/android/OT/oboe/src/common/AudioStreamBuilder.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/AudioStreamBuilder.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/DataConversionFlowGraph.cpp.o -c /data/CODE/android/OT/oboe/src/common/DataConversionFlowGraph.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/DataConversionFlowGraph.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/FilterAudioStream.cpp.o -c /data/CODE/android/OT/oboe/src/common/FilterAudioStream.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/FilterAudioStream.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/FixedBlockAdapter.cpp.o -c /data/CODE/android/OT/oboe/src/common/FixedBlockAdapter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/FixedBlockAdapter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/FixedBlockReader.cpp.o -c /data/CODE/android/OT/oboe/src/common/FixedBlockReader.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/FixedBlockReader.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/FixedBlockWriter.cpp.o -c /data/CODE/android/OT/oboe/src/common/FixedBlockWriter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/FixedBlockWriter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/LatencyTuner.cpp.o -c /data/CODE/android/OT/oboe/src/common/LatencyTuner.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/LatencyTuner.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/SourceFloatCaller.cpp.o -c /data/CODE/android/OT/oboe/src/common/SourceFloatCaller.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/SourceFloatCaller.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/SourceI16Caller.cpp.o -c /data/CODE/android/OT/oboe/src/common/SourceI16Caller.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/SourceI16Caller.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/Utilities.cpp.o -c /data/CODE/android/OT/oboe/src/common/Utilities.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/Utilities.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/QuirksManager.cpp.o -c /data/CODE/android/OT/oboe/src/common/QuirksManager.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/QuirksManager.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoBuffer.cpp.o -c /data/CODE/android/OT/oboe/src/fifo/FifoBuffer.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/fifo/FifoBuffer.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoController.cpp.o -c /data/CODE/android/OT/oboe/src/fifo/FifoController.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/fifo/FifoController.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoControllerBase.cpp.o -c /data/CODE/android/OT/oboe/src/fifo/FifoControllerBase.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/fifo/FifoControllerBase.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoControllerIndirect.cpp.o -c /data/CODE/android/OT/oboe/src/fifo/FifoControllerIndirect.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/fifo/FifoControllerIndirect.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/FlowGraphNode.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/FlowGraphNode.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/FlowGraphNode.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/ChannelCountConverter.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/ChannelCountConverter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/ChannelCountConverter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/ClipToRange.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/ClipToRange.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/ClipToRange.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/ManyToMultiConverter.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/ManyToMultiConverter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/ManyToMultiConverter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/MonoToMultiConverter.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/MonoToMultiConverter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/MonoToMultiConverter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/MultiToMonoConverter.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/MultiToMonoConverter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/MultiToMonoConverter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/RampLinear.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/RampLinear.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/RampLinear.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SampleRateConverter.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SampleRateConverter.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SampleRateConverter.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SinkFloat.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SinkFloat.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SinkFloat.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SinkI16.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SinkI16.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SinkI16.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SinkI24.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SinkI24.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SinkI24.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SourceFloat.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SourceFloat.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SourceFloat.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SourceI16.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SourceI16.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SourceI16.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/SourceI24.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/SourceI24.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/SourceI24.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/IntegerRatio.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/IntegerRatio.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/IntegerRatio.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/LinearResampler.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/LinearResampler.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/LinearResampler.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/MultiChannelResampler.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/MultiChannelResampler.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/MultiChannelResampler.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/PolyphaseResampler.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/PolyphaseResampler.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/PolyphaseResampler.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/PolyphaseResamplerMono.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/PolyphaseResamplerMono.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/PolyphaseResamplerMono.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/PolyphaseResamplerStereo.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/PolyphaseResamplerStereo.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/PolyphaseResamplerStereo.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/SincResampler.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/SincResampler.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/SincResampler.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/flowgraph/resampler/SincResamplerStereo.cpp.o -c /data/CODE/android/OT/oboe/src/flowgraph/resampler/SincResamplerStereo.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/flowgraph/resampler/SincResamplerStereo.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioInputStreamOpenSLES.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/AudioInputStreamOpenSLES.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/AudioInputStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioOutputStreamOpenSLES.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/AudioOutputStreamOpenSLES.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/AudioOutputStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioStreamBuffered.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/AudioStreamBuffered.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/AudioStreamBuffered.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioStreamOpenSLES.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/AudioStreamOpenSLES.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/AudioStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/EngineOpenSLES.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/EngineOpenSLES.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/EngineOpenSLES.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/OpenSLESUtilities.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/OpenSLESUtilities.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/OpenSLESUtilities.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/OutputMixerOpenSLES.cpp.o -c /data/CODE/android/OT/oboe/src/opensles/OutputMixerOpenSLES.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/opensles/OutputMixerOpenSLES.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/StabilizedCallback.cpp.o -c /data/CODE/android/OT/oboe/src/common/StabilizedCallback.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/StabilizedCallback.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/Trace.cpp.o -c /data/CODE/android/OT/oboe/src/common/Trace.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/Trace.cpp"
+},
+
+{
+  "directory": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/x86_64",
+  "command": "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I/data/CODE/android/OT/oboe/src -I/data/CODE/android/OT/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -std=c++14 -Wall -Wextra-semi -Wshadow -Wshadow-field -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/Version.cpp.o -c /data/CODE/android/OT/oboe/src/common/Version.cpp",
+  "file": "/data/CODE/android/OT/oboe/src/common/Version.cpp"
+}
+]

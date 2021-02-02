@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja  -C \"/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "parselib-Debug-armeabi-v7a": {
+      "artifactName": "parselib",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/debug/armeabi-v7a\" parselib",
+      "abi": "armeabi-v7a",
+      "output": "/data/CODE/android/modules/nativeaudio/parselib/.cxx/cmake/debug/armeabi-v7a/libparselib.a",
+      "runtimeFiles": []
+    }
+  }
+}

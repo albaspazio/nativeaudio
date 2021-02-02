@@ -1,0 +1,44 @@
+{
+  "buildFiles": [
+    "/data/CODE/android/modules/nativeaudio/nativeaudio/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/data/CODE/android/modules/nativeaudio/parselib/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp/CMakeLists.txt",
+    "/data/CODE/android/OT/oboe/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja  -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "iolib-Debug-x86_64": {
+      "artifactName": "iolib",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64\" iolib",
+      "abi": "x86_64",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64/libiolib.a",
+      "runtimeFiles": []
+    },
+    "nativeaudio-Debug-x86_64": {
+      "artifactName": "nativeaudio",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64\" nativeaudio",
+      "abi": "x86_64",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/build/intermediates/cmake/debug/obj/x86_64/libnativeaudio.so",
+      "runtimeFiles": []
+    },
+    "parselib-Debug-x86_64": {
+      "artifactName": "parselib",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64\" parselib",
+      "abi": "x86_64",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64/libparselib.a",
+      "runtimeFiles": []
+    },
+    "oboe-Debug-x86_64": {
+      "artifactName": "oboe",
+      "buildCommand": "/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja -C \"/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64\" oboe",
+      "abi": "x86_64",
+      "output": "/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64/oboe/liboboe.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+                Executable : /data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/data/CODE/android/modules/nativeaudio/iolib/src/main/cpp
+-DCMAKE_FIND_ROOT_PATH=/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/debug/prefab/arm64-v8a/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462
+-DANDROID_PLATFORM=android-26
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=/data/CODE/tools/android-sdk-linux/ndk/21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/data/CODE/android/modules/nativeaudio/iolib/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=26
+-B/data/CODE/android/modules/nativeaudio/iolib/.cxx/cmake/debug/arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

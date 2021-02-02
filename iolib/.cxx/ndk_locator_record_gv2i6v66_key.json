@@ -1,0 +1,8 @@
+{
+  "sdkFolder": "/data/CODE/tools/android-sdk-linux",
+  "sideBySideNdkFolderNames": [
+    "21.0.6113669",
+    "21.1.6352462",
+    "20.0.5594570"
+  ]
+}

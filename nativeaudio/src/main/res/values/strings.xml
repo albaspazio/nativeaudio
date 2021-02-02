@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestOboe</string>
+
+
+    <string-array name="sample_audioassets_array">
+        <item>t1000hz_7ms.wav</item>
+        <item>t1000hz_10ms.wav</item>
+        <item>t1000hz_17ms.wav</item>
+        <item>t3000hz_17ms.wav</item>
+        <item>t1000hz_20ms.wav</item>
+        <item>t1000hz_30ms.wav</item>
+        <item>t1000hz_35ms.wav</item>
+        <item>t1000hz_50ms.wav</item>
+        <item>t1000hz_100ms.wav</item>
+        <item>t1000hz_1000ms.wav</item>
+        <item>t200hz_1000ms.wav</item>
+    </string-array>
+
+</resources>

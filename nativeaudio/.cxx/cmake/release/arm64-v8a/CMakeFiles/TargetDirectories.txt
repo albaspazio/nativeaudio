@@ -1,0 +1,16 @@
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/install/strip.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/install/local.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/iolib.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/install.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/list_install_components.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/nativeaudio.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/CMakeFiles/parselib.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/install.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/list_install_components.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/rebuild_cache.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/edit_cache.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/install/strip.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/install/local.dir
+/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/release/arm64-v8a/oboe/CMakeFiles/oboe.dir
