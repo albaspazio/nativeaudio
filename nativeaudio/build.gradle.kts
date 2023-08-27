@@ -2,9 +2,6 @@
 plugins {
     id(Plugins.androidLibrary)
     kotlin(Plugins.kotlinAndroid)
-    kotlin(Plugins.kotlinExtensions)
-
-    id("name.remal.check-dependency-updates") version "1.0.211"
 }
 
 android {
@@ -44,26 +41,7 @@ android {
 
 }
 
-androidExtensions {
-    isExperimental = true
-}
-
-
 dependencies {
-
-    api(Dependencies.AndroidX.ktxCore)
-    api(Dependencies.AndroidX.navFragment)
-    api(Dependencies.AndroidX.navUi)
-    api(Dependencies.Kotlin.stdLib)
-    api(Dependencies.Kotlin.reflect)
-
-    api("androidx.appcompat:appcompat:1.3.0-alpha02")
-    api("androidx.constraintlayout:constraintlayout:2.0.4")
-    api("com.google.android.material:material:1.2.1")
-
-    
-
-
 
     testImplementation("junit:junit:4.13")
     androidTestImplementation("androidx.test:runner:1.3.0")

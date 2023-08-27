@@ -1,3 +1,2 @@
 ninja: Entering directory `/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/x86_64'
-[1/2] Building CXX object CMakeFiles/nativeaudio.dir/jni_bridge.cpp.o
-[2/2] Linking CXX shared library /data/CODE/android/modules/nativeaudio/nativeaudio/build/intermediates/cmake/debug/obj/x86_64/libnativeaudio.so
+ninja: no work to do.
