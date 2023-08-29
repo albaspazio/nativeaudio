@@ -2,7 +2,8 @@ Android Library with a simple audio playback engine implemented with Oboe.
 it grants milliseconds precision !!
 For example, you can playback a square wave sound with a period of 14ms using a 7ms file (validated with an oscilloscope). 
 See https://doi.org/10.1109/MeMeA52024.2021.9478724.
-Succesfully used in PsySuite (https://gitlab.iit.it/u-vip_public/psysuite/app.git), an App to run behavioral tests on human subjects.
+
+Successfully used in PsySuite (https://gitlab.iit.it/u-vip_public/psysuite/app.git), an App to run behavioral tests on human subjects.
 
 Usage:
 
