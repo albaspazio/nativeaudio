@@ -10,7 +10,12 @@ Usage:
 import org.albaspazio.nativeaudio.PlaybackEngine
 
 PlaybackEngine.setupAudioStream(context)
+
 PlaybackEngine.loadWavAsset(context.resources.assets, "t1000hz_7ms.wav", 0)
+
 PlaybackEngine.deliver(0)
+
 PlaybackEngine.stop(0)
+
 PlaybackEngine.release()
+
