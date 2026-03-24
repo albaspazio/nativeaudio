@@ -8,15 +8,19 @@ cmake_minimum_required(VERSION 3.10.2)
 project("nativeaudio")
 
 ### INCLUDE OBOE LIBRARY & ACCESSORY MODULES ###
-set (OBOE_DIR /data/CODE/android/OT/oboe)
-set (PARSELIB_DIR ../../../../parselib)     #message("PARSELIB_DIR = " + ${PARSELIB_DIR})
+set (PARSELIB_DIR ../../../../parselib)
 set (IOLIB_DIR ../../../../iolib)
 
+# Enable 16 KB page alignment for native libraries (required for Android 14+)
+set(CMAKE_SHARED_LINKER_FLAGS "${CMAKE_SHARED_LINKER_FLAGS} -Wl,-z,max-page-size=0x4000")
 
-add_subdirectory(${OBOE_DIR} ./oboe)
+# Use Oboe via prefab (from Gradle dependency)
+find_package(oboe REQUIRED CONFIG)
+
+# Pass Oboe includes to submodules (iolib needs oboe headers)
+include_directories(${oboe_INCLUDE_DIRS})
 
 include_directories(
-            ${OBOE_DIR/include}
             ${CMAKE_CURRENT_LIST_DIR}
 )
 
@@ -57,12 +61,10 @@ find_library( log-lib       # Sets the name of the path variable.
 # can link multiple libraries, such as libraries you define in this
 # build script, prebuilt third-party libraries, or system libraries.
 
-target_link_libraries(  nativeaudio   # Specifies the target library.
-
+target_link_libraries(  nativeaudio
                         -Wl,--whole-archive
                         iolib
                         parselib
                         -Wl,--no-whole-archive
-
-                        ${log-lib}   # Links the target library to the log library included in the NDK.
-                        oboe)
+                        ${log-lib}
+                        oboe::oboe)

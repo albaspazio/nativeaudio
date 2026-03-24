@@ -3,3 +3,10 @@
 /buildSrc/build
 /buildSrc/.gradle
 .gradle
+/parselib/build
+/nativeaudio/.cxx
+/iolib/.cxx
+/parselib/.cxx
+
+/parselib/.cxx/*
+/nativeaudio/.cxx/

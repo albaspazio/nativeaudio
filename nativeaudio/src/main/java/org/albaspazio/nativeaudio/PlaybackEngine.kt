@@ -5,6 +5,7 @@ import android.content.res.AssetManager
 import android.content.res.Resources
 import android.media.AudioManager
 import android.util.Log
+import org.albaspazio.psysuite.nativeaudio.R
 import java.io.IOException
 
 /*

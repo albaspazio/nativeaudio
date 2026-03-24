@@ -1,2 +1,0 @@
-OBOE_DIR = +/data/CODE/android/OT/oboe
-Configuring done

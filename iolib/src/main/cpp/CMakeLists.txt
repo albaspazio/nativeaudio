@@ -13,23 +13,15 @@ cmake_minimum_required(VERSION 3.4.1)
 # SET(NDK "")
 #message("NDK is " ${NDK})
 
-# Set the path to the Oboe library directory
-set (OBOE_DIR /data/CODE/android/OT/oboe)
-#set (OBOE_DIR ../../../../../)
-#message("OBOE_DIR = " + ${OBOE_DIR})
-
 # Pull in parselib
 set (PARSELIB_DIR ../../../../parselib)
-#message("PARSELIB_DIR = " + ${PARSELIB_DIR})
 
-# compiler flags
-# -mhard-float -D_NDK_MATH_NO_SOFTFP=1
-#SET( CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -mhard-float -D_NDK_MATH_NO_SOFTFP=1" )
+# Enable 16 KB page alignment for native libraries (required for Android 14+)
+set(CMAKE_SHARED_LINKER_FLAGS "${CMAKE_SHARED_LINKER_FLAGS} -Wl,-z,max-page-size=0x4000")
 
 # include folders
 include_directories(
         ${PARSELIB_DIR}/src/main/cpp
-        ${OBOE_DIR}/include
         ${CMAKE_CURRENT_LIST_DIR}
         ../../../../shared)
 
@@ -60,3 +52,9 @@ target_link_libraries( # Specifies the target library.
             # Links the target library to the log library
             # included in the NDK.
             log)
+
+# Oboe headers are provided by the parent CMakeLists (nativeaudio) via find_package(oboe)
+# When built as part of nativeaudio, oboe::oboe target exists and provides include dirs
+if(TARGET oboe::oboe)
+    target_link_libraries(iolib oboe::oboe)
+endif()

@@ -1,2 +1,0 @@
-ninja: Entering directory `/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/armeabi-v7a'
-ninja: no work to do.

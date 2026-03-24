@@ -1,7 +1,0 @@
-Executable : /data/CODE/tools/android-sdk-linux/cmake/3.10.2.4988404/bin/ninja
-arguments : 
--C
-/data/CODE/android/modules/nativeaudio/nativeaudio/.cxx/cmake/debug/arm64-v8a
-oboe-lib
-jvmArgs : 
-
