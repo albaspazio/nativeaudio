@@ -19,3 +19,6 @@ PlaybackEngine.stop(0)
 
 PlaybackEngine.release()
 
+From v1.1.0:
+- oboe.1.10.0
+- 16kb compatibility
